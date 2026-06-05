@@ -7,5 +7,5 @@ menu:
     main:
         weight: 2
         params: 
-            icon: about
+            icon: user
 ---
