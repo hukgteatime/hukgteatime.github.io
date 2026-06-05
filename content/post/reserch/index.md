@@ -1,7 +1,6 @@
 ---
 title: GAA 高テス集
 date: 2026-06-06
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---  
 随時更新
 
