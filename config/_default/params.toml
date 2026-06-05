@@ -19,12 +19,12 @@ SortBy              = "default"
 
 [sidebar]
     subtitle = "麻布高校卒・電気通信大学学部主席の高エス協会会長が色々語ります。"
-    avatar   = "img/avatar.png"
+    avatar   = "img/favicon.png"
 
 [article]
     headingAnchor = false
     math          = false
-    readingTime   = true
+    readingTime   = false
 
     [article.license]
         enabled = true

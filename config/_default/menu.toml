@@ -6,26 +6,6 @@
 #[main.params]
 #icon = "home"
 #newtab = true
-[[main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about"
-    [main.params]
-        icon = "user"
-
-[[main]]
-    identifier = "archives"
-    name       = "Archives"
-    url        = "/archives"
-    [main.params]
-        icon = "archives"
-
-[[main]]
-    identifier = "search"
-    name       = "Search"
-    url        = "/search"
-    [main.params]
-        icon = "search"
 
 [[social]]
     identifier = "twitter"
