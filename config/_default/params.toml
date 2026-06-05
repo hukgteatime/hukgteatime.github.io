@@ -26,10 +26,6 @@ SortBy              = "default"
     math          = false
     readingTime   = false
 
-    [article.license]
-        enabled = true
-        default = "Licensed under CC BY-NC-SA 4.0"
-
 [widgets]
     homepage = [
         { type = "search" },
