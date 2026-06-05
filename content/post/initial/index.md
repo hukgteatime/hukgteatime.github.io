@@ -1,5 +1,6 @@
 ---
 title: 初投稿
+date: 2026-06-05
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
