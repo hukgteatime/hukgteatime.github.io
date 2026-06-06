@@ -27,9 +27,6 @@ SortBy              = "default"
     readingTime   = false
 
 [widgets]
-    homepage = [
-        { type = "search" },
-    ]
     page = [{ type = "toc" }]
 
 [opengraph.twitter]
